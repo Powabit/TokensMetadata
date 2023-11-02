@@ -1,2 +1,3 @@
-# PowaDAP_TokensMetadata
-Tokens verified on the PowaDAP platform. To upload information about a project, follow the guide to make a pull request or send DM to @devmexos on Telegram.
+# Powabit Ecosystem - Tokens Metadata 
+
+Tokens verified on the PowaDAP platform. To upload information about a project, follow the example to make a pull request in the corresponding network folder, then send DM to @devmexos on Telegram.
