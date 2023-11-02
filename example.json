@@ -2,7 +2,7 @@
     "name": "Test Token",
     "symbol": "TEST",
     "contract": "0x0000000000000000000000000000000000000000",
-    "description": "Example of a token (no more than 200 characters)",
+    "description": "Example of a token (no more than 400 characters)",
     "website": "https://your-website.com",
     "audit": "https://your-token-audit-report.com (optional)",
     "twitter": "https://twitter.com/your-token-twitter (optional)",
