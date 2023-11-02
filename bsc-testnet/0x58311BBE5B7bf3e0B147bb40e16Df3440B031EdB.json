@@ -1,0 +1,15 @@
+{
+    "name": "Test",
+    "symbol": "TCP",
+    "contract": "0x58311BBE5B7bf3e0B147bb40e16Df3440B031EdB",
+    "description": "Test token.",
+    "website": "https://babybitcoin.finance/",
+    "audit": "",
+    "twitter": "https://twitter.com/BabyBitcoinOK",
+    "telegram": "https://t.me/BabyBitcoinToken",
+    "logo_32": "https://babybitcoin.finance/logo_new_32.png",
+    "logo_64": "https://babybitcoin.finance/logo_new_64.png",
+    "logo_128": "https://babybitcoin.finance/logo_new_128.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
