@@ -1,0 +1,15 @@
+{
+    "name": "Baby Bitcoin",
+    "symbol": "BBTC",
+    "contract": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
+    "description": "Testnet contract of BBTC",
+    "website": "https://babybitcoin.finance/",
+    "audit": "",
+    "twitter": "https://twitter.com/BabyBitcoinOK",
+    "telegram": "https://t.me/BabyBitcoinToken",
+    "logo_32": "https://babybitcoin.finance/logo_new_32.png",
+    "logo_64": "https://babybitcoin.finance/logo_new_64.png",
+    "logo_128": "https://babybitcoin.finance/logo_new_128.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
