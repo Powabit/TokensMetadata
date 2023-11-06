@@ -2,7 +2,7 @@
     "name": "Wrapped BNB",
     "symbol": "WBNB",
     "contract": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "description": "Wrapped BNB is a wrapped version of the Binance native tokens on the Binance Smart Chain.",
+    "description": "Wrapped version of the Binance native tokens (BNB) on the Binance Smart Chain.",
     "website": "https://binance.com/",
     "audit": "",
     "twitter": "https://twitter.com/binance",
