@@ -1,0 +1,15 @@
+{
+    "name": "Powabit Token",
+    "symbol": "POWA",
+    "contract": "0x5FDa925294F9e5B31b7c0e81Bad6BAD5b5E792eE",
+    "description": "The Powabit token ($POWA) is used as utility currency and rewards in the four main modules of the ecosystem (PowaDAP, PowaList, PowaNFT and PowaEX). With the POWA token you can use tools in PowaDAP, place bets and receive rewards in Powa Worms (PowaNFT module NFT game), buy upgrades and contract services in PowaList, pay fees and multi-stake in PowaEX. In addition, all coins in the Powabit ecosystem will constantly receive capital injections automatically through the income of the ecosystem’s dapps in BNB, BUSD and USDT.",
+    "website": "https://powabit.com/token/",
+    "audit": "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Powabit_0x5FDa925294F9e5B31b7c0e81Bad6BAD5b5E792eE.pdf",
+    "twitter": "https://twitter.com/powabit",
+    "telegram": "https://t.me/powabit",
+    "logo_32": "https://powabit.com/logo_powa_32.png",
+    "logo_64": "https://powabit.com/logo_powa_64.png",
+    "logo_128": "https://powabit.com/logo_powa_128.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/powabit/",
+    "coingecko": "https://www.geckoterminal.com/bsc/pools/0x4c4c674af146d04ffc6570f2c4c278cf9b8a902a?utm_source=coingecko&utm_medium=referral&utm_campaign=searchresults"
+}
