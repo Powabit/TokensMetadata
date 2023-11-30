@@ -1,0 +1,15 @@
+{
+    "name": "USDC",
+    "symbol": "USDC",
+    "contract": "0x772bf1c089463341cd18e1c99ffa10d433e12db4",
+    "description": "USDC is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by $1 that is held in reserve, in a mix of cash and short-term U.S. Treasury bonds. The Centre consortium, which is behind this asset, says USDC is issued by regulated financial institutions.",
+    "website": "https://www.circle.com/blog/ushering-in-the-next-chapter-for-usdc",
+    "audit": "",
+    "twitter": "https://twitter.com/circle",
+    "telegram": "",
+    "logo_32": "https://powadap.com/assets/img/icons/coins/usdc.png",
+    "logo_64": "https://powadap.com/assets/img/icons/coins/usdc.png",
+    "logo_128": "https://powadap.com/assets/img/icons/coins/usdc.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingecko": "https://www.coingecko.com/en/coins/usdc"
+}
