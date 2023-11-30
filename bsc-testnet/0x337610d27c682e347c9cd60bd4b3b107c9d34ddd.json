@@ -1,7 +1,7 @@
 {
     "name": "Tether USDT",
     "symbol": "USDT",
-    "contract": "0x55d398326f99059ff775485246999027b3197955",
+    "contract": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
     "description": "Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money.",
     "website": "https://tether.to/",
     "audit": "https://skynet.certik.com/projects/tether?utm_source=CMC&utm_campaign=AuditByCertiKLink",
