@@ -1,0 +1,15 @@
+{
+    "name": "BlueLotus Token",
+    "symbol": "BLDT",
+    "contract": "0xf3F7Fe5DeB371726d0705536f398a7b0DE38790a",
+    "description": "BLDT, the native token of BlueLotusDAO, is the heartbeat of our decentralized exchange (DEX) ecosystem. Driving seamless asset exchange, governance participation, rewards, and network security, BLDT ensures an active and engaged community shaping the future of BlueLotusDAO.",
+    "website": "https://www.bluelotusdao.org/",
+    "audit": "",
+    "twitter": "https://twitter.com/BlueLotusGSYS",
+    "telegram": "https://t.me/GenesysNetworkEN",
+    "logo_32": "https://i.ibb.co/gM2WsW0/photo-2023-10-27-13-00-54.jpg",
+    "logo_64": "https://i.ibb.co/gM2WsW0/photo-2023-10-27-13-00-54.jpg",
+    "logo_128": "https://i.ibb.co/gM2WsW0/photo-2023-10-27-13-00-54.jpg",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
