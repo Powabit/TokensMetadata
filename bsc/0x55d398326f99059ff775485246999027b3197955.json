@@ -1,0 +1,15 @@
+{
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "contract": "0x55d398326f99059ff775485246999027b3197955",
+    "description": "Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money.",
+    "website": "https://tether.to/",
+    "audit": "https://skynet.certik.com/projects/tether?utm_source=CMC&utm_campaign=AuditByCertiKLink",
+    "twitter": "https://twitter.com/tether_to",
+    "telegram": "https://t.me/OfficialTether",
+    "logo_32": "https://powadap.com/assets/img/icons/coins/usdt.png",
+    "logo_64": "https://powadap.com/assets/img/icons/coins/usdt.png",
+    "logo_128": "https://powadap.com/assets/img/icons/coins/usdt.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether",
+    "coingecko": "https://www.coingecko.com/es/monedas/tether"
+}
