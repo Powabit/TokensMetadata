@@ -1,0 +1,15 @@
+{
+    "name": "BlueLotusDAO",
+    "symbol": "BLTD",
+    "contract": "0xb4a3f9d3cece2c298e9b73113f7b6c2b9f9d61ff",
+    "description": "BlueLotusDAO is the best place to trade and earn on networks such as Genesys Network.",
+    "website": "https://www.bluelotusdao.org/",
+    "audit": "",
+    "twitter": "",
+    "telegram": "",
+    "logo_32": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/bluelotusdao.png",
+    "logo_64": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/bluelotusdao.png",
+    "logo_128": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/bluelotusdao.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
