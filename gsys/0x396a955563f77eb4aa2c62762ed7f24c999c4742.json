@@ -1,1 +1,15 @@
-
+{
+    "name": "Dead Ralph",
+    "symbol": "DRALPH",
+    "contract": "0x396A955563f77Eb4AA2c62762ED7f24c999c4742",
+    "description": "A cult that conmemorates the dead meme coin $RALPH. Staking your NFT will earn you $DRALPH",
+    "website": "https://dead-ralph.webflow.io/",
+    "audit": "",
+    "twitter": "https://twitter.com/DeadRalphToken",
+    "telegram": "https://t.me/DeadRalph0",
+    "logo_32": "https://bluelotusdao.org/images/tokens/gsys/0x396A955563f77Eb4AA2c62762ED7f24c999c4742.png",
+    "logo_64": "https://bluelotusdao.org/images/tokens/gsys/0x396A955563f77Eb4AA2c62762ED7f24c999c4742.png",
+    "logo_128": "https://bluelotusdao.org/images/tokens/gsys/0x396A955563f77Eb4AA2c62762ED7f24c999c4742.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
