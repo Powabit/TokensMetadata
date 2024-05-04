@@ -1,0 +1,15 @@
+{
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "contract": "0x4200000000000000000000000000000000000006",
+    "description": "Wrapped version of the Ether (ETH) on the Base Network.",
+    "website": "https://www.base.org/",
+    "audit": "",
+    "twitter": "https://twitter.com/base",
+    "telegram": "",
+    "logo_32": "https://powadap.com/assets/img/icons/chain-1.png",
+    "logo_64": "https://powadap.com/assets/img/icons/chain-1.png",
+    "logo_128": "https://powadap.com/assets/img/icons/chain-1.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
