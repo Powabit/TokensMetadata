@@ -1,0 +1,15 @@
+{
+    "name": "Baby Bitcoin (BNB)",
+    "symbol": "BBTC",
+    "contract": "0x9eb026feD551a090BDF837f97bdA9983618b2297",
+    "description": "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause.",
+    "website": "https://babybitcoin.finance/",
+    "audit": "",
+    "twitter": "https://twitter.com/BabyBitcoinOK",
+    "telegram": "https://t.me/BabyBitcoinToken",
+    "logo_32": "https://babybitcoin.finance/logo_new_32.png",
+    "logo_64": "https://babybitcoin.finance/logo_new_64.png",
+    "logo_128": "https://babybitcoin.finance/logo_new_128.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
