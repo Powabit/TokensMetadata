@@ -1,0 +1,15 @@
+{
+    "name": "Nitro Layer",
+    "symbol": "NILEX",
+    "contract": "0x67838fc7dc7e801a0c02fd0ac1e667a2affd0e5e",
+    "description": "NitroLayer is an ecosystem of decentralized applications that drives real activity on EVM networks. Built on the Base network, we integrate useful tools, a deflationary token ($NILEX), and multi-chain partnerships to expand the reach of Web3.",
+    "website": "https://nitrolayer.org",
+    "audit": "",
+    "twitter": "https://x.com/NitroLayer",
+    "telegram": "https://t.me/NitroLayer",
+    "logo_32": "https://nitrolayer.org/logo_256.png",
+    "logo_64": "https://nitrolayer.org/logo_256.png",
+    "logo_128": "https://nitrolayer.org/logo_256.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
