@@ -1,0 +1,15 @@
+{
+    "name": "Mum Coin",
+    "symbol": "MUM",
+    "contract": "0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5",
+    "description": "$MUM COIN The meme coin for dreamers who never leave mum’s house. No utility. No rent. Just community & chaos. Mum knows best.",
+    "website": "https://mumcoin.meme/",
+    "audit": "",
+    "twitter": "https://x.com/mumcoin",
+    "telegram": "https://t.me/mumcoinbyrulandofun",
+    "logo_32": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5/logo.png",
+    "logo_64": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5/logo.png",
+    "logo_128": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5/logo.png",
+    "coinmarketcap": "",
+    "coingecko": ""
+}
